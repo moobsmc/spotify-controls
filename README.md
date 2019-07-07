@@ -1,4 +1,4 @@
-# spotify-controls
+# Spotify Controls
 Simple c++ program to interface with media binds on spotify without actual media keys.
 
 The binds can be easily modified through source, default binds are:
